@@ -1,2 +1,4 @@
 # -Color-Jittering-Animation
-Develop a animation to display color jittering
+
+Summer Study Course Assignments：Develop an animation to display color jittering
+
